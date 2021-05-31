@@ -7,5 +7,5 @@ func main() {
 }
 
 func Cat() string {
-	return "miao miao"
+	return "miao miao miao"
 }
